@@ -1,0 +1,16 @@
+.star i{
+    color: rgb(240, 194, 108);
+    padding: 2px;
+    margin-bottom: 8px;
+}
+.button{
+    background-color: #e2dede;
+    text-align: center;
+    padding: 10px;
+    margin-top: 14px;
+    border-color:#8f8888 ;
+}
+.last{
+    margin-left: 184px;
+}
+
